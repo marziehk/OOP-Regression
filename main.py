@@ -1,5 +1,5 @@
 from libextract import *
-from randomf import *
+from allregressors import *
 from dataclean import *
 
 dataset = pd.read_csv("/Users/Marzieh/Desktop/oop practice/Position_Salaries.csv")
